@@ -1,4 +1,5 @@
 # conectaCuatro
+![image](https://user-images.githubusercontent.com/117833691/223397241-1acd0ac8-b347-4336-8c9c-ef6e5013648a.png)
 
 Este código es una implementación del juego "Connect Four" (también conocido como "Cuatro en línea") utilizando JavaScript. El código define una función que toma seis parámetros, los cuales son nombres de identificadores de elementos HTML que se utilizan para mostrar y controlar el juego. Estos parámetros son:
 newgame: El identificador del elemento HTML que se utiliza para iniciar un nuevo juego.
